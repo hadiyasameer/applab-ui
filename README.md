@@ -22,3 +22,7 @@ How to Run Locally
 Trade-offs & Known Limitations
 - Some animations may slightly differ from prototype due to timing adjustments for smoother  performance
 - A few  sections are not fully styled due to time constraints.
+
+
+Live Demo
+https://applab-ui-assessment.netlify.app
